@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Face Guessing Game Final",
+  "description": "A bilingual (English/Korean) game where players guess identities based on AI-generated descriptions of facial features using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
